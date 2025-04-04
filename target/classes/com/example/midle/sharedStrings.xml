@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="10" uniqueCount="9"><si><t>id</t></si><si><t>name</t></si><si><t>price</t></si><si><t>stock</t></si><si><t>expired_date</t></si><si><t>cake</t></si><si><t>candy</t></si><si><t>coca</t></si><si><t>milk</t></si></sst>
